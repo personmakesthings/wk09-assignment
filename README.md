@@ -4,7 +4,12 @@ This is for the following assignment: Week 9 - Build a social network.
 
 
 Deployed on Render:
-- *add link*
+- https://wk09-assignment.onrender.com/
+
+
+Other links for README.md:
+- [Copy of SQL code](./README/SQL-code.sql)
+
 
 
 # Reflection
